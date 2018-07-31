@@ -1,7 +1,8 @@
 # Hello-World
 This is my 1st Repository
 
-Hello there i like AIs and i want to become a Data Scintist.
+Hello there.Its my 1st time in github.
+
 one of my code in java
 
 import java.util.*;
